@@ -72,8 +72,7 @@
   },
   "scripts": {
     "checkTypes": "dtslint types",
-    "test": "grunt",
-    "postinstall": "grunt"
+    "test": "grunt"
   },
   "jspm": {
     "main": "handlebars",
